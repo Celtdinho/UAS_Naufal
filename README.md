@@ -145,19 +145,22 @@ Atau gunakan SQL untuk membuat user baru
 
 📱 Screenshots
 Login Page
-https://screenshots/login.png
+https://screenshots/Login.png
 
 Admin Dashboard
-https://screenshots/dashboard.png
+https://screenshots/Dashboard_admin.png
 
 Kelola Mobil
-https://screenshots/mobil.png
+https://screenshots/Edit_admin.png
 
 Daftar Sewa
-https://screenshots/sewa.png
+https://screenshots/Daftar_sewa.png
 
-Mobile Responsive
-https://screenshots/mobile.png
+User Dashboard
+https://screenshots/Dashboard_user.png
+
+Form Sewa User
+https://screenshots/Form.png
 
 🎥 Video Demonstrasi
 (https://youtu.be/iGpSocZ7IWw)
